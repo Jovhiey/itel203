@@ -53,8 +53,8 @@
   main .hero .shape-bg {
     position: absolute;
     background: #FFECE2;
-    width: 900px;
-    height: 900px;
+    width: 700px;
+    height: 700px;
     top: -300px;
     z-index: -1;
     right: -350px;
